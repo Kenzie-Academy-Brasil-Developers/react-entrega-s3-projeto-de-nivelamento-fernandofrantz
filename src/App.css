@@ -1,0 +1,36 @@
+.App {
+  display: flex;
+}
+#register {
+  border: 5px solid black;
+
+  padding: 15px;
+  margin: 20px;
+
+  height: 100vh;
+  width: 25vw;
+}
+
+#products {
+  border: 5px solid black;
+
+  padding: 15px;
+  margin: 20px;
+
+  width: 25vw;
+  height: 100vh;
+
+  overflow: auto;
+}
+
+#cart {
+  border: 5px solid black;
+
+  padding: 15px;
+  margin: 20px;
+
+  width: 45vw;
+
+  height: 100vh;
+  overflow: auto;
+}
